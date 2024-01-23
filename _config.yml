@@ -1,6 +1,5 @@
 theme: minima
-title: PawKanarek blog
-description: Place where I write about Machine Learning and Game Dev
+title: PawKanarek
+description: Blog
 header_pages:
-  - about.md
-  - portfolio.md
+  - resume.md
