@@ -4,13 +4,16 @@ author:
   email: "paw.kanarek@gmail.com"
 
 description: > 
-  Blog by Paweł Kanarek aka PawKanarek.
-  Low-value scribblings that somehow saw the light of day of the public internet.
+  Low-value scribblings that somehow saw the rays of the public internet.
+  A blog by Paweł Kanarek, also known as PawKanarek.
 
 header_pages: 
   - resume.md
 
-# theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
 remote_theme: jekyll/minima
 
 minima: 
