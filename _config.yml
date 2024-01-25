@@ -12,18 +12,19 @@ header_pages:
 
 # theme: minima
 remote_theme: jekyll/minima
+
 minima: 
   skin: auto
   social_links: 
-    - platform: github,
+    - platform: github
       user_url: "https://github.com/PawKanarek"
       title: My github reposistory
-    - platform: linkedin, 
+    - platform: linkedin
       user_url: "https://www.linkedin.com/in/pawel-kanarek/"
       title: My linkedIn profile
-    - platform: stackoverflow,
+    - platform: stackoverflow
       user_url: "https://stackoverflow.com/users/6134430/pawe%c5%82-kanarek" 
       title: My stackoverflow profile
-    - platform: x,
+    - platform: x
       user_url: "https://twitter.com/PawKanarek"
       title: My X profile
