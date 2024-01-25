@@ -1,21 +1,28 @@
 title: PawKanarek
 author:
   name: Paweł Kanarek
-  email: paw.kanarek@gmail.com
+  email: "paw.kanarek@gmail.com"
 
 description: > 
   Blog by Paweł Kanarek aka PawKanarek.
   Low-value scribblings that somehow saw the light of day of the public internet.
 
-theme: minima
-minima:
-  skin: auto
-
 header_pages:
   - resume.md
 
-social_links:
-  - { platform: github,         user_url: "https://github.com/PawKanarek" }
-  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/pawel-kanarek/" }
-  - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/6134430/pawe%c5%82-kanarek" }
-  - { platform: x,              user_url: "https://twitter.com/PawKanarek" }
+theme: minima
+minima:
+  skin: auto
+  social_links:
+    - platform: github,
+      user_url: "https://github.com/PawKanarek"
+      title: My github reposistory
+    - platform: linkedin, 
+      user_url: "https://www.linkedin.com/in/pawel-kanarek/"
+      title: My linkedIn profile
+    - platform: stackoverflow,
+      user_url: "https://stackoverflow.com/users/6134430/pawe%c5%82-kanarek" 
+      title: My stackoverflow profile
+    - platform: x,
+      user_url: "https://twitter.com/PawKanarek"
+      title: My X profile
