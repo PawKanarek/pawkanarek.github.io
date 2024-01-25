@@ -1,5 +1,5 @@
 title: PawKanarek
-author:
+author: 
   name: Paweł Kanarek
   email: "paw.kanarek@gmail.com"
 
@@ -7,13 +7,13 @@ description: >
   Blog by Paweł Kanarek aka PawKanarek.
   Low-value scribblings that somehow saw the light of day of the public internet.
 
-header_pages:
+header_pages: 
   - resume.md
 
 theme: minima
-minima:
+minima: 
   skin: auto
-  social_links:
+  social_links: 
     - platform: github,
       user_url: "https://github.com/PawKanarek"
       title: My github reposistory
