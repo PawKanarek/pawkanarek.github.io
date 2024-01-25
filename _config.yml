@@ -10,7 +10,8 @@ description: >
 header_pages: 
   - resume.md
 
-theme: minima
+# theme: minima
+remote_theme: jekyll/minima
 minima: 
   skin: auto
   social_links: 
