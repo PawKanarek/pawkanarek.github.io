@@ -1,103 +1,64 @@
 ---
 layout: cv
-title: Paweł Kanarek - CV
+title: Resume
 permalink: /resume/
 ---
 
-# Paweł Kanarek
+I am a 31-year-old Senior Mobile Developer specialized in Xamarin and .NET MAUI with over 10 years of experience as a professional developer delivering production-ready code. As a Machine Learning enthusiast who spent past year self-learning, I believe that I would be a great asset to your AI Engineering team.
 
-Machine Learning Enthusiast. Senior Mobile Developer experienced in Xamarin and Maui framework.
-
-<div id="webaddress">
+<div>
 <a href="paw.kanarek@gmail.com">paw.kanarek@gmail.com</a>
-| <a href="https://www.linkedin.com/in/pawel-kanarek/">LinkedIn</a>
-| <a href="https://github.com/PawKanarek">GitHub</a>
-| <a href="https://stackoverflow.com/users/6134430/pawe%c5%82-kanarek">Stack Overflow</a>
+/ <a href="https://www.linkedin.com/in/pawel-kanarek/">LinkedIn</a>
+/ <a href="https://github.com/PawKanarek">GitHub</a>
+/ <a href="https://stackoverflow.com/users/6134430/pawe%c5%82-kanarek">Stack Overflow</a>
 </div>
 
-## Currently 
+### Experience
+__Learning ML__ `Current`
+- Fine-tuned Stable Diffusion XL [(SDXL)](https://huggingface.co/pawkanarek/spraix_sdxl_best_96_32) model to generate animated sprites. 
+- Collected, prepared and created a [dataset](https://huggingface.co/datasets/pawkanarek/spraix_1024) consisting of 560 labeled images. 
+- Created [training script](https://github.com/PawKanarek/spraix/blob/48d8c209a359622e6db56e6d555667ac466dc952/train_text_to_image_flax_sdxl.py) for SDXL model in Flax framework. See my [spraix](https://github.com/PawKanarek/spraix) repository for more details.
+- Completed _[PyTorch for Deep Learning Bootcamp](https://www.udemy.com/course/pytorch-for-deep-learning/)_ course on Udemy and _[Neural Networks: Zero to Hero](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)_ by Andrej Karpathy.
 
-Discovering Machine Learning, Python and Stable Diffusion.
+__[Legimi](https://www.legimi.pl/), Xamarin Developer__ `Aug 2022 - Aug 2023` 
 
-Fine-tuned Stabke Diffusion XL [(SDXL)](https://huggingface.co/pawkanarek/spraix_sdxl_best_96_32) model to generate animated sprites. 
+- Maintained popular Legimi application on [Android](https://play.google.com/store/apps/details?id=legimi.android.main&hl=en), [iOS](https://apps.apple.com/pl/app/legimi-ebooks-and-audiobooks/id563888611), [Windows](https://www.legimi.pl/pobierz-legimi/), [MacOS](https://www.legimi.pl/pobierz-legimi/) and [e-Ink](https://www.legimi.pl/pobierz-legimi/) platforms.
+- Wrote documentation, planned, estimated and implemented new features.
+- Managed multiple priorities during two-week tech support sprints, focusing on end-user and internal teams assistance, bug fixes, CI build coordination, and publishing applications on App Store, Google Play, Amazon Store, Huawei AppGallery.
+- Created automated UI, integration, and unit tests.
+- Gained experience with functional programming in C# with use of [Reactive Extensions](https://github.com/dotnet/reactive).
 
-Created [dataset](https://huggingface.co/datasets/pawkanarek/spraix_1024) consisted of 560 labeled images. 
+__[Insys Video Technologies](https://insysvideotechnologies.com/), Mobile Technical Leader__ `July 2020 - July 2022`
 
-Created [training script](https://github.com/PawKanarek/spraix/blob/48d8c209a359622e6db56e6d555667ac466dc952/train_text_to_image_flax_sdxl.py) for SDXL model in Flax framework. More details in my repository [spraix](https://github.com/PawKanarek/spraix).
+__[Insys Video Technologies](https://insysvideotechnologies.com/), Senior Xamarin Developer__ `Apr 2020 - July 2020`
 
-Finished Udemy course [PyTorch for Deep Learning Bootcamp](https://www.udemy.com/course/pytorch-for-deep-learning/) and Andrej Karpathy [Neural Networks: Zero to Hero](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+__[Insys Video Technologies](https://insysvideotechnologies.com/), Xamarin Developer__ `June 2016 - Apr 2020`
 
-# Proffesional Experience
+__[Insys Video Technologies](https://insysvideotechnologies.com/), Solar2D Game and App Developer__ `Aug 2013 - June 2016`
 
-`Aug 2022 - Aug 2023`
-__Xamarin Developer, [Legimi](https://www.legimi.pl/)(remote / Poznań, PL)__
+- Performed technical interviews in the hiring process.
+- Created streaming applications for watching DRM protected live streams and VODs for iOS, Android, AndroidTV, AppleTV, Windows Phone platforms.
+- As a team, we created our own Framework and White Label Product that was used in dozens of successful implementations; for example:  __simpliTV__ [Android](https://play.google.com/store/apps/details?id=at.simplitv.ott&hl=en&gl=US) / [iOS](https://apps.apple.com/at/app/simplitv-tv-streaming-app/id1250009902) / [AndroidTV](https://play.google.com/store/apps/details?id=at.simplitv.ott.androidtv&hl=pl), __PAOK TV__ [Android](https://play.google.com/store/apps/details?id=gr.paokfc.ott&hl=en&gl=US) / [iOS](https://apps.apple.com/gr/app/paok-tv/id1505963460), __BeActiveTV__ [Android](https://play.google.com/store/apps/details?id=pl.beactive.app&hl=en&gl=US) / [iOS](https://apps.apple.com/pl/app/beactivetv-pl/id1549817661?l=pl), __INEA Online TV__ [Android](https://play.google.com/store/apps/details?id=pl.inea.onlinetv&hl=pl) / [iOS](https://apps.apple.com/pl/app/inea-online-tv/id808106965), __Cineman__ [Android](https://play.google.com/store/apps/details?id=pl.cineman.app&hl=pl) / [iOS](https://apps.apple.com/pl/app/cineman/id1457949997), __Mojeekino.pl__ [Android](https://play.google.com/store/apps/details?id=pl.mojeekino&hl=pl) / [iOS](https://apps.apple.com/pl/app/moje-ekino/id1513916921), __Benfica Play__ [Android](https://play.google.com/store/apps/details?id=pt.benficaplay.ott&hl=en&gl=US) / [iOS](https://apps.apple.com/pl/app/benfica-play/id1489174646), __Trwam TV__ [Android](https://play.google.com/store/apps/details?id=pl.insys.trwamtv&hl=en) / [iOS](https://apps.apple.com/pl/app/trwam-tv/id1067334183?l=pl). 
+- Set up infrastructure for UI and integration tests. 
+- Published applications on AppStore, Google Play, Huawei AppGallery, Amazon Store and Microsoft Store.
+- Made games and streaming applications in Solar2D engine using Lua programming language.
+- Created Game Level Designer in JavaScript.  
 
-- Maintenance of the mature applications on Android, iOS, Windows, MacOS and e-INK devices.
-- Contributed to the enhancment of an existing applications, by planing, estimating and implementing new features.
-- Managed multiple priorities during two-week Tech Support sprints, focusing on:
-    - end-user assitance by finding solutions or workarounds
-    - bug fixing
-    - coordinating CI pipelines
-    - first line response for internal teams such as backend, frontend and finance
-    - publishing applications on App Store, Google Play, Amazon Store, Huawei AppGallery platforms.
-- Improved code reliability by creating new automated UI tests, integration tests and unit tests.
-- Gained expierience with functional programing in C# with use of [Reactive Extensions](https://github.com/dotnet/reactive).
+###### Technologies. The ones I know best are first. __The ones that spark joy are bold__.
+- __Programming Languages:__ __C#__, __Kotlin__, __Python__, Java, Dart, __GDScript__, Lua, JavaScript, Objective-C, C++, C, F#, Assembly.
 
-`July 2020 - July 2022`
-__Mobile Technical Leader, [Insys Video Technologies](https://insysvideotechnologies.com/)(remote / Poznań, PL)__
+- __Frameworks:__  Xamarin, MAUI, __PyTorch__, __Jax__, __Flax__, Flutter, ASP.NET, __Godot__, Solar2D.
 
-- Technical leader in group of 7 people at Insys Video Technologies.
+- __IDEs:__ __JetBrains Rider__, __VS Code__, Visual Studio [my extension is on MS marketplace](https://marketplace.visualstudio.com/items?itemName=PawKanarek.v1), Android Studio, XCode.
 
-`Apr 2020 - July 2020`
-__Senior Xamarin Developer, [Insys Video Technologies](https://insysvideotechnologies.com/)(Poznań, PL)__
+- __Other:__ __git__, Jenkins, GitHub, Bitbucket, IoC, Rx.NET, __Hugging Face__, __Stable Diffusion__, Jira, Confluence, Redmine, RealmDB, SQL, MVVMCross, Prism.
 
-`June 2016 - Apr 2020`
-__Xamarin Developer, [Insys Video Technologies](https://insysvideotechnologies.com/)(Poznań, PL)__
+### Languages
+- Polish: native.
+- English: fluent (B2).
 
-- Responsible for creating OTT applications using Xamarin.Forms for iOS and Android systems, Xamarin.Android for AndroidTV, Xamarin.tvOS for AppleTV and UWP for Windows Phone.
-- As a team we created our own Framework and White Label Product that was used in dozens of successful implementations.
-- Responsible for publishing applications on AppStore, Google Play and Microsoft Store.
+### Education
 
-`Aug 2013 - June 2016`
-__Solar2D Game and App Developer, [Geemzo](https://twitter.com/geemzo)(Poznań, PL)__
-- Making games and streaming application in Solar2D framework using Lua programming language.
-- I was in the team of 5 people at Geemzo (subsidiary of Insys) responsible for writing games for mobile devices using the Solar2D framework.
-- Created Game Level Designer in javascript.
-- Little experience with Unity3D.
+__[Poznań University of Technology](https://www.put.poznan.pl/en), B.Sc. in Automatic Control and Robotics__ `2011 - 2017`
 
-## Education 
-`2017`
-__Bachelor of Science in Automatic Control and Robotics at Poznan University of Technology__
-
-- In my diploma Thesis "Weather Station on the Arduino processor” I was responsible for writing web app in ASP.NET and writing mobile apps for Android and iOS platforms with realtime view of current results form the station.
-
-## Tech stack
-
-__Frameworks__ 
-- PyTorch, Jax, Flax, Xamarin, Maui, Solar2D, Flutter, ASP.NET
-
-__IDE__
-- VSCode, JetBrains Rider, Visual Studio [my extension on MS marketplace](https://marketplace.visualstudio.com/items?itemName=PawKanarek.v1), Android Studio, XCode, Godot, Unity3D
-
-__VoodooTechStack__ 
-- Stable Diffusion, Hugging Face, Jira, GitHub, ExoPlayer, DRM, Jenkins, Confluence, Bitbucket, Redmine, RealmDB, SQL, MVVMCross, Prism, IoC, Autofac, Rx.NET
-
-## Languages
-- Polish native.
-- English B2.
-
-## Programming Languages 
-`2023` 
-__Python, GDScript__
-
-`2019`
-__Kotlin__
-
-`2018`
-__Dart__
-
-`2016`
-__C#, Java, Objective-C__
-
-`2013`
-__Lua, javascript__
+For my diploma thesis _“Weather Station on the Arduino Processor”_, I developed a web app in ASP.NET and created mobile apps for Android and iOS platforms, with real-time view of the results from the station.
