@@ -1,0 +1,17 @@
+.spoiler {
+    position: relative;
+}
+
+.spoiler .normal-text,
+.spoiler .hidden-text {
+    display: inline;
+}
+
+.spoiler .hidden-text {
+    background-color: $text-color;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.spoiler .hidden-text:hover {
+    background-color: transparent;
+}
