@@ -1,14 +1,14 @@
 title: PawKanarek
 author: 
-  name: Paweł Kanarek
+  name: Paweł Kanarek ML enthusiast
   email: "paw.kanarek@gmail.com"
 
 description: > 
   Low-value scribblings that somehow saw the rays of the public internet.
-  A blog by Paweł Kanarek, also known as PawKanarek.
+  A blog written by Machine Learning enthusiast Paweł Kanarek.
 
 header_pages: 
-  - resume.md
+  - resume-page.md
 
 plugins:
   - jekyll-feed
