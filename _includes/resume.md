@@ -2,16 +2,16 @@ Senior Mobile Developer with over 10 years of experience in Xamarin and .NET MAU
 
  <div class="contact">
     <a href="mailto:paw.kanarek@gmail.com">
-        <img class="svg-icon" src="/assets/icons/mail_icon.svg" alt="mail to">paw.kanarek@gmail.com
+        <img class="svg-icon" src="/assets/icons/mail.svg" alt="mail to">paw.kanarek@gmail.com
     </a>
     <a href="https://pawkanarek.github.io/">
-        <img class="svg-icon" src="/assets/icons/site_icon.svg" alt="site">pawkanarek.github.io
+        <img class="svg-icon" src="/assets/icons/site.svg" alt="site">pawkanarek.github.io
     </a>
     <a href="https://github.com/PawKanarek">
-        <img class="svg-icon" src="/assets/icons/github_icon.svg" alt="github">PawKanarek
+        <img class="svg-icon" src="/assets/icons/github.svg" alt="github">PawKanarek
     </a>
     <a href="https://www.linkedin.com/in/pawel-kanarek/">
-        <img class="svg-icon" src="/assets/icons/linkedin_icon.svg" alt="github">pawel-kanarek
+        <img class="svg-icon" src="/assets/icons/linkedin.svg" alt="linkedin">pawel-kanarek
     </a>
 </div>
 
