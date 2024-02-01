@@ -34,7 +34,7 @@ Mobile Developer with over 10 years of commercial experience specialized in Xama
 
 - Maintained popular Legimi application on [Android](https://play.google.com/store/apps/details?id=legimi.android.main&hl=en), [iOS](https://apps.apple.com/pl/app/legimi-ebooks-and-audiobooks/id563888611), [Windows](https://www.legimi.pl/pobierz-legimi/), [MacOS](https://www.legimi.pl/pobierz-legimi/) and [e-Ink](https://www.legimi.pl/pobierz-legimi/) platforms.
 - Wrote documentation, planned, estimated, and implemented new features.
-- Managed multitasking during two-week tech support sprints including user and internal teams assistance, bug fixes, CI pipelines management, and multi-platform releases.
+- Managed multitasking during two-week tech support sprints including end-user and internal teams assistance, bug fixes, CI pipelines management, and multi-platform releases.
 - Created automated UI, integration, and unit tests.
 - Gained experience in C# functional programming using [Reactive Extensions](https://github.com/dotnet/reactive).
 
