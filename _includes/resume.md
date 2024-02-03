@@ -1,17 +1,17 @@
-Senior Mobile Developer with over 10 years of experience in Xamarin and .NET MAUI, delivering production-ready code. As a Machine Learning enthusiast who spent the past year self-learning, I believe that I would be a great asset to your AI Engineering team.
+Mobile Developer with over 10 years of commercial experience specialized in Xamarin and .NET MAUI multi-platform frameworks. As a Machine Learning enthusiast who spent the past year in self-study, I believe that I would be a great asset to your AI Engineering team.
 
  <div class="contact">
     <a href="mailto:paw.kanarek@gmail.com">
-        <img class="svg-icon" src="/assets/icons/mail_icon.svg" alt="mail to">paw.kanarek@gmail.com
+        <img class="svg-icon" src="/assets/icons/mail.svg" alt="mail to">paw.kanarek@gmail.com
     </a>
     <a href="https://pawkanarek.github.io/">
-        <img class="svg-icon" src="/assets/icons/site_icon.svg" alt="site">pawkanarek.github.io
+        <img class="svg-icon" src="/assets/icons/site.svg" alt="site">pawkanarek.github.io
     </a>
     <a href="https://github.com/PawKanarek">
-        <img class="svg-icon" src="/assets/icons/github_icon.svg" alt="github">PawKanarek
+        <img class="svg-icon" src="/assets/icons/github.svg" alt="github">PawKanarek
     </a>
     <a href="https://www.linkedin.com/in/pawel-kanarek/">
-        <img class="svg-icon" src="/assets/icons/linkedin_icon.svg" alt="github">pawel-kanarek
+        <img class="svg-icon" src="/assets/icons/linkedin.svg" alt="linkedin">pawel-kanarek
     </a>
 </div>
 
@@ -25,7 +25,7 @@ Senior Mobile Developer with over 10 years of experience in Xamarin and .NET MAU
 - Fine-tuned the Stable Diffusion XL [(SDXL)](https://huggingface.co/pawkanarek/spraix_sdxl_best_96_32) model to generate animated sprites. 
 - Collected, prepared, and created a [dataset](https://huggingface.co/datasets/pawkanarek/spraix_1024) consisting of 560 labeled images. 
 - Created a [training script](https://github.com/PawKanarek/spraix/blob/48d8c209a359622e6db56e6d555667ac466dc952/train_text_to_image_flax_sdxl.py) for the SDXL model in the Flax framework. See my [spraix](https://github.com/PawKanarek/spraix) repository for more details.
-- Completed _[PyTorch for Deep Learning Bootcamp](https://www.udemy.com/certificate/UC-2818173f-752c-4306-91ea-5f916853c894/)_ course on Udemy and _[Neural Networks: Zero to Hero](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)_ by Andrej Karpathy.
+- Completed _[PyTorch for Deep Learning Bootcamp](https://www.udemy.com/certificate/UC-2818173f-752c-4306-91ea-5f916853c894/)_ on Udemy and Andrej Karpathy's course _[Neural Networks: Zero to Hero](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)_.
 
 
 #### [Legimi](https://www.legimi.pl/)
@@ -34,7 +34,7 @@ Senior Mobile Developer with over 10 years of experience in Xamarin and .NET MAU
 
 - Maintained popular Legimi application on [Android](https://play.google.com/store/apps/details?id=legimi.android.main&hl=en), [iOS](https://apps.apple.com/pl/app/legimi-ebooks-and-audiobooks/id563888611), [Windows](https://www.legimi.pl/pobierz-legimi/), [MacOS](https://www.legimi.pl/pobierz-legimi/) and [e-Ink](https://www.legimi.pl/pobierz-legimi/) platforms.
 - Wrote documentation, planned, estimated, and implemented new features.
-- Managed multiple tasks during two-week tech support sprints, which included end-user and internal teams assistance, bug fixes, CI build coordination, and publishing applications across various platforms.
+- Managed multitasking during two-week tech support sprints including end-user and internal teams assistance, bug fixes, CI pipelines management, and multi-platform releases.
 - Created automated UI, integration, and unit tests.
 - Gained experience in C# functional programming using [Reactive Extensions](https://github.com/dotnet/reactive).
 
@@ -51,13 +51,13 @@ Senior Mobile Developer with over 10 years of experience in Xamarin and .NET MAU
 - Set up infrastructure for UI and integration tests.
 
 ### Technologies
-###### Listed in order of proficiency; __enthusiastic about the bolded ones__.
+###### Listed by proficiency; __enthusiastic about the bolded ones__.
 <div class="div-space"></div>
 
 - Programming Languages: __C#__, __Python__, __Kotlin__, Java, Lua, __GDScript__, Dart, JavaScript, Objective-C, C++, C, Assembly, F#.
 - Frameworks:  Xamarin, MAUI, __PyTorch__, __Jax__, __Flax__, Flutter, ASP.NET, __Godot__, Solar2D.
-- IDEs: __JetBrains Rider__, __VS Code__, __Visual Studio__ (I also created an extension, available on the [Marketplace](https://marketplace.visualstudio.com/items?itemName=PawKanarek.v1)), Android Studio, XCode.
-- Other: __git__, Jenkins, GitHub, Bitbucket, __Hugging Face__, __Stable Diffusion__, Rx.NET, RealmDB, Jira, Confluence, Redmine, ExoPlayer, MVVMCross, Prism.
+- IDEs: __JetBrains Rider__, __VS Code__, __Visual Studio__ (where I have published extension on the [Marketplace](https://marketplace.visualstudio.com/items?itemName=PawKanarek.v1)), Android Studio, XCode.
+- Other: __git__, Jenkins, GitHub, __Hugging Face__, __Stable Diffusion__, Rx.NET, RealmDB, Jira, Redmine, ExoPlayer, MVVMCross, Prism.
 
 ### Education
 
