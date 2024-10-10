@@ -7,9 +7,6 @@ description: >
   Low-value scribblings that somehow saw the rays of the public internet.
   A blog written by Machine Learning enthusiast Paweł Kanarek.
 
-header_pages: 
-  # - resume-page.md
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
