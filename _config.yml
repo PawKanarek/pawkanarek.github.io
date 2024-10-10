@@ -8,7 +8,7 @@ description: >
   A blog written by Machine Learning enthusiast Paweł Kanarek.
 
 header_pages: 
-  - resume-page.md
+  # - resume-page.md
 
 plugins:
   - jekyll-feed
